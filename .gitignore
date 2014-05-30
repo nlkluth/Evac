@@ -3,17 +3,17 @@ Evac/Library/*
 Evac/Build/*
 Evac/Temp/*
 #Un-ignore these specific files
-!Library/*.asset
-!Library/AssetImportState
-!Library/AssetVersioning.db
-!Library/BuildPlayer.prefs
-!Library/ScriptMapper
-!Library/assetservercachev3
-!Library/expandedItems
-!Library/guidmapper
-!Library/unity default resources
-!Library/unity editor resources
-!Library/metadata/
+!Evac/Library/*.asset
+!Evac/Library/AssetImportState
+!Evac/Library/AssetVersioning.db
+!Evac/Library/BuildPlayer.prefs
+!Evac/Library/ScriptMapper
+!Evac/Library/assetservercachev3
+!Evac/Library/expandedItems
+!Evac/Library/guidmapper
+!Evac/Library/unity default resources
+!Evac/Library/unity editor resources
+!Evac/Library/metadata/
 
 
 #ignoring pidb, they are just code completion caching data according to:
